@@ -1,5 +1,6 @@
 # 🏝️ Arland- Island Strategy Game
 
+[![Play Arland Now](https://img.shields.io/badge/Play_Arland_Now-7289DA?style=for-the-badge&logo=google-chrome&logoColor=white)](https://island-mystery.vercel.app/)
 ![Island Mystery Banner](https://img.shields.io/badge/Island%20Mystery-Blockchain%20Strategy%20Game-blue?style=for-the-badge&logo=ethereum)
 
 [![Built with React](https://img.shields.io/badge/React-18.3.1-61DAFB?style=flat&logo=react)](https://reactjs.org/)
@@ -10,8 +11,7 @@
 
 *A decentralized island strategy game where players build, battle, and trade on the Arbitrum blockchain*
 
-[🎮 Play Now](#getting-started) • [📖 Documentation](#documentation) • [🏗️ Architecture](#architecture) • [🤝 Contributing](#contributing)
-
+[🎮 Play Arland Now](#play-online) • [🚀 Getting Started](#getting-started) • [📖 Documentation](#documentation) • [🏗️ Architecture](#architecture) • [🤝 Contributing](#contributing)
 
 
 ---
@@ -234,6 +234,14 @@ Go to 👉 [http://localhost:8000](http://localhost:8000)
 4. *Gather Resources*: Farms produce wheat, mines produce gold
 5. *Trade & Battle*: Interact with other players through trading and combat
 6. *Grow Your Empire*: Expand your island and increase your power
+
+---
+
+## 🌐 Play Online
+
+The game is **live on the web**! Experience Arland directly in your browser—build your island, trade resources, and battle other players on Arbitrum Sepolia.
+
+[🕹️ Play Now](https://island-mystery.vercel.app/)
 
 ---
 

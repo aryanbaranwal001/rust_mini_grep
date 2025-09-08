@@ -237,7 +237,7 @@ Go to 👉 [http://localhost:8000](http://localhost:8000)
 
 ---
 
-## 🌐 Play Online
+## 🕹️ Play Arland Now
 
 The game is **live on the web**! Experience Arland directly in your browser—build your island, trade resources, and battle other players on Arbitrum Sepolia.
 

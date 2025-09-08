@@ -241,7 +241,7 @@ Go to 👉 [http://localhost:8000](http://localhost:8000)
 
 The game is **live on the web**! Experience Arland directly in your browser—build your island, trade resources, and battle other players on Arbitrum Sepolia.
 
-[🕹️ Play Now](https://island-mystery.vercel.app/)
+[🎮 Jump In & Play](https://island-mystery.vercel.app/)
 
 ---
 

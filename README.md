@@ -11,7 +11,7 @@
 
 *A decentralized island strategy game where players build, battle, and trade on the Arbitrum blockchain*
 
-[🎮 Play Arland Now](#play-online) • [🚀 Getting Started](#getting-started) • [📖 Documentation](#documentation) • [🏗️ Architecture](#architecture) • [🤝 Contributing](#contributing)
+[🎮 Play Arland Now](#play-online) • [🎮 Game Mechanics](#game-mechanics) • [🏗️ Architecture](#architecture) • [🚀 Getting Started](#getting-started) • [🤝 Contributing](#contributing)
 
 
 ---
@@ -32,7 +32,7 @@
 
 ---
 
-## 🎮 Game Mechanics
+## 🎮 Game Mechanics  <a name="game-mechanics"></a>
 
 ### 🏗️ Island Building System
 
@@ -89,7 +89,7 @@ Players can create and execute bilateral trade proposals:
 
 ---
 
-## 🏗️ Architecture
+## 🏗️ Architecture <a name="architecture"></a>
 
 ### 📋 Smart Contracts
 
@@ -183,7 +183,7 @@ src/
 
 ---
 
-## 🚀 Getting Started
+## 🚀 Getting Started <a name="getting-started"></a>
 
 ### Prerequisites
 
@@ -237,7 +237,7 @@ Go to 👉 [http://localhost:8000](http://localhost:8000)
 
 ---
 
-## 🕹️ Play Arland Now
+## 🕹️ Play Arland Now <a name="play-online"></a>
 
 The game is **live on the web**! Experience Arland directly in your browser—build your island, trade resources, and battle other players on Arbitrum Sepolia.
 
@@ -295,7 +295,7 @@ The game is **live on the web**! Experience Arland directly in your browser—bu
 
 ---
 
-## 🤝 Contributing
+## 🤝 Contributing <a name="contributing"></a>
 
 We welcome contributions from the community! Here's how you can help:
 
